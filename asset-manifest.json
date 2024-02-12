@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.10698bf7.css",
-    "main.js": "/static/js/main.f9980e94.js",
-    "index.html": "/index.html",
-    "main.10698bf7.css.map": "/static/css/main.10698bf7.css.map",
-    "main.f9980e94.js.map": "/static/js/main.f9980e94.js.map"
+    "main.css": "/webauthn-hmac-secret-demo/static/css/main.10698bf7.css",
+    "main.js": "/webauthn-hmac-secret-demo/static/js/main.f9980e94.js",
+    "index.html": "/webauthn-hmac-secret-demo/index.html",
+    "main.10698bf7.css.map": "/webauthn-hmac-secret-demo/static/css/main.10698bf7.css.map",
+    "main.f9980e94.js.map": "/webauthn-hmac-secret-demo/static/js/main.f9980e94.js.map"
   },
   "entrypoints": [
     "static/css/main.10698bf7.css",
